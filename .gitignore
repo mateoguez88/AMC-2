@@ -6,6 +6,5 @@ AMC_Modelo_Gibraltar.xlsx
 *.egg-info/
 dist/
 build/
-.streamlit/
 venv/
 .env
