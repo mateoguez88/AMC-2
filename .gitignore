@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+_temp_upload.xlsm
+AMC_Modelo_Gibraltar.xlsx
+*.egg-info/
+dist/
+build/
+.streamlit/
+venv/
+.env
