@@ -315,4 +315,4 @@ Para dudas o mejoras, contactar al equipo de IDOM Mobility & Transport.
 
 ---
 
-**Desarrollado por IDOM Consulting, Engineering & Architecture**
+**Desarrollado con IDOM Consulting, Engineering & Architecture**
